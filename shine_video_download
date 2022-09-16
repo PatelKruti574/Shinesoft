@@ -51,9 +51,8 @@
       "QurekaLite":{
          "ad_showAdStatus":"1",
          "ad_loadAdIdsType":"1",
-         "AppID":"https://336.set.qureka.com/",
-         "Banner1":"https:\/\/740.win.predchamp.com\/",
-         "Interstitial1":"https:\/\/26.go.mglgamez.com\/"
+         "AppID":"https://336.set.qureka.com/"
+         
       }
    }
    }
