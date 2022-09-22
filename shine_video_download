@@ -47,7 +47,7 @@
          "AppID":"4923729"
       },
       "QurekaLite":{
-         "ad_showAdStatus":"1",
+         "ad_showAdStatus":"",
          "ad_loadAdIdsType":"1",
          "AppID":"https://336.set.qureka.com/"
       }
