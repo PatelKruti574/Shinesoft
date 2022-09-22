@@ -42,7 +42,7 @@
          "NativeBanner1":""
       },
       "Unity":{
-         "ad_showAdStatus":"1",
+         "ad_showAdStatus":"",
          "ad_loadAdIdsType":"1",
          "AppID":"4923729"
       },
